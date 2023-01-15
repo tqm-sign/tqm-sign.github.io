@@ -1,453 +1,378 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-   <loc>https://tqm-mos.github.io/favicon.ico</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/favicon.ico</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/CydiaIcon.png</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/CydiaIcon.png</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/index.html</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/index.html</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/LICENSE.md</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/LICENSE.md</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/TQM/css/theme.css</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/TQM/css/theme.css</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/TQM/css/vendor.bundle.css</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/TQM/css/vendor.bundle.css</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/TQM/css/style.css</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/TQM/css/style.css</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/TQM/js/jquery.bundle.js</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/TQM/js/jquery.bundle.js</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/TQM/js/script.js</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/TQM/js/script.js</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Release</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/Release</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_5.3.1_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_5.3.1_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.apttqm_1.0.2_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.apttqm_1.0.2_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_6.0.2_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_6.0.2_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.taurine_1.1.3_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.taurine_1.1.3_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.youtube_17.01.4_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.youtube_17.01.4_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_6.1.1_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_6.1.1_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.scarlet_1.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.scarlet_1.0_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_7.0.2_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_7.0.2_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.gbox_3.6.7_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.gbox_3.6.7_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.beautyabroad_2.9.7_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.beautyabroad_2.9.7_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_6.2.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_6.2.0_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_8.0.2_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_8.0.2_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.instagram.noads_216.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.instagram.noads_216.0_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.th0r14_4.1_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.th0r14_4.1_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_6.0.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_6.0.0_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.esign_4.5.1_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.esign_4.5.1_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_8.0.1_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_8.0.1_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.koditqm64_19.4_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.koditqm64_19.4_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.UnicornApp_19.3.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.UnicornApp_19.3.0_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.appcakej_7.2.2_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.appcakej_7.2.2_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.kios_6.0.4_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.kios_6.0.4_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.taurine_1.1.5_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.taurine_1.1.5_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_8.0.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_8.0.0_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.youtube_17.15.1_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.youtube_17.15.1_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.client_8.6.42_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-14</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.client_8.6.42_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.zingvip_4.0.2_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.zingvip_4.0.2_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.taurine_1.1.4_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.taurine_1.1.4_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.undecimus_6.1.2_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.undecimus_6.1.2_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.PicsArt_20.1.4_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.PicsArt_20.1.4_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/DEB/com.tqm-sign.lite_200.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/DEB/com.tqm-sign.lite_200.0_iphoneos-arm.deb</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/TQM.sh</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/TQM.sh</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/README.md</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/README.md</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/sitemap.xml</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/sitemap.xml</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Packages.bz2</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/Packages.bz2</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/sitemap.sh</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/sitemap.sh</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/icon/logo-white.png</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/icon/logo-white.png</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/icon/logo.png</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/icon/logo.png</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/icon/2.png</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/icon/2.png</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/icon/3.png</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/icon/3.png</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/icon/1.png</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/icon/1.png</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/repo.xml</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/repo.xml</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/config</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/config</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/3b/07a76bfb08bd59ae82213864b5f1595b983d87</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/objects/pack/pack-e8d6b002322f8bae6b03fe7e5b02dca8e80e01c2.pack</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/6a/96bfec4693f8e35e8d0e54865638e819c2aeec</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/objects/pack/pack-e8d6b002322f8bae6b03fe7e5b02dca8e80e01c2.idx</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/5a/4189161f120a4577c71ac9f3f9e8addb49ba32</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/HEAD</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/ad/f8f927d70c7245c10d7ffdecbe757ee4470f2d</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/info/exclude</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/e5/c032dcc50afaf0039fe9b9bd7423daca44eefd</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/logs/HEAD</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/pack/pack-1fc7a6076293f3f4c650735bef284638432ddeab.idx</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/logs/refs/heads/master</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/pack/pack-1fc7a6076293f3f4c650735bef284638432ddeab.pack</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/logs/refs/remotes/origin/HEAD</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/26/51e5c6aeffbf771317d73b376d88be5d38cf3e</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/description</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/43/5ed1e6d008e7894e4d7b11c494ed7e4ae7fb2d</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/commit-msg.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/88/45f7b2d8b12b9cd2ce166a3bc0fd096e7f977e</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/pre-rebase.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/07/ba9e8d40408db66963578e9887a01730bb152f</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/pre-commit.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/38/e082f817e33ba72698568685cd0cda24e162bd</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/applypatch-msg.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/3a/e414094e5677d7ae2caa3a9ac197cdb1102e24</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/fsmonitor-watchman.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/54/4662116f1ff16a9dbfc1046900c463ea0c94a6</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/pre-receive.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/HEAD</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/prepare-commit-msg.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/info/exclude</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/post-update.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/logs/HEAD</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/pre-applypatch.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/logs/refs/heads/master</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/pre-push.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/logs/refs/remotes/origin/HEAD</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/hooks/update.sample</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/logs/refs/remotes/origin/master</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/refs/heads/master</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/description</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/refs/remotes/origin/HEAD</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/commit-msg.sample</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/index</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-rebase.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-commit.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/applypatch-msg.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/fsmonitor-watchman.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-receive.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/prepare-commit-msg.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/post-update.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-applypatch.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-push.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/update.sample</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/COMMIT_EDITMSG</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/refs/heads/master</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/refs/remotes/origin/HEAD</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/refs/remotes/origin/master</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/index</loc>
-   <lastmod>2022-07-15</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/.git/packed-refs</loc>
-   <lastmod>2022-07-15</lastmod>
+   <loc>https://tqm-sign.github.io/.git/packed-refs</loc>
+   <lastmod>2023-01-15</lastmod>
    <changefreq>weekly</changefreq>
   </url>
  </urlset>

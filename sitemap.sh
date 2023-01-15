@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # url configuration
-URL="https://tqm-mos.github.io/"
+URL="https://tqm-sign.github.io/"
 
 # values: always hourly daily weekly monthly yearly never
 FREQ="weekly"
